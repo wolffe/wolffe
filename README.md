@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wolffes github stats](https://github-readme-stats.vercel.app/api?username=wolffe&&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![wolffes github stats](https://github-readme-stats.vercel.app/api?username=wolffe&&count_private=true&show_icons=true&theme=dark&bg_color=#30363d)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
