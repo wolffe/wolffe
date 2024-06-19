@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wolffe&theme=monokai-metallian&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolffe&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolffe&show_icons=true&theme=tokyonight&layout=compact&border_radius=0&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wolffe/wolffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
