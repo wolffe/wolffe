@@ -2,7 +2,7 @@
 
 [![wolffes github stats](https://github-stats-extended.vercel.app/api?username=wolffe&&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&border_radius=0&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wolffe&theme=monokai-metallian&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wolffe&theme=monokai-metallian&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **wolffe/wolffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
